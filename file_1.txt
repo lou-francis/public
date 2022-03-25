@@ -1,3 +1,4 @@
+after commit - and again
 hello
 this is a test for the GIT class
 line #3
